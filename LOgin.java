@@ -1,3 +1,9 @@
 pple
 mango
-jack fruit
+jack frui
+
+
+public class static void
+int a
+int b
+int c
